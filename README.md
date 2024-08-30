@@ -14,7 +14,7 @@ download the dataset: [link](https://pan.baidu.com/s/1cACKNPdyohigHbc8gRZ7ng?pwd
 
 ## trained model
 
-We provide .pth of our TDDet trained on 
+We provide .pt of our TDDet trained on the dataset: [TDDet.pt](https://pan.baidu.com/s/1lI9vEgrZJqM_uwTRK4GOjA?pwd=hsfs )
 
 ## results (Qualitative results)
 
