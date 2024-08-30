@@ -18,11 +18,11 @@ We provide .pth of our TDDet trained on
 
 ## results (Qualitative results)
 
-<img title="" src="file:///G:/Submit/TDDet/results/Table1.png" alt="" width="593">
+![](./results/Table1.png)
 
 <img title="" src="./results/Table2.png" alt="" width="542">
 
-<img src="file:///G:/Submit/TDDet/results/Table3.png" title="" alt="" width="630">
+<img title="" src="./results/Table3.png" alt="" width="630">
 
 ## results (Qualitative results)
 
