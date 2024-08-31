@@ -28,7 +28,7 @@ We provide .pt of our TDDet trained on the dataset: [TDDet.pt](https://pan.baidu
 
 ![](./results/Fig.9.png)
 
-*Fig. 9. Comparative Heatmap visualization of attention mechanisms in TDDet*
+*Fig. 9. Comparative Heatmap visualization of  in TDDet with different attention mechanisms*
 
 ![](./results/Fig.10.png)
 
