@@ -28,16 +28,16 @@ We provide .pt of our TDDet trained on the dataset: [TDDet.pt](https://pan.baidu
 
 ![](./results/Fig.9.png)
 
-*Fig. 9. Comparison of different models with continuous scale variation*
+*Fig. 9. Comparative Heatmap visualization of attention mechanisms in TDDet*
 
 ![](./results/Fig.10.png)
 
-*Fig. 10.Comparison of the anti-interference capabilities of different models in complex backgrounds*
+*Fig. 10.Comparison of different models with continuous scale variation*
 
 ![](./results/Fig.11.png)
 
-*Fig. 11. Comparison of different models in detecting small target tea diseases*
+*Fig. 11. Comparison of the anti-interference capabilities of different models in complex backgrounds*
 
 ![](./results/Fig.12.png)
 
-*Fig. 12. Comparative Heatmap visualization of attention mechanisms in TDDet*
+*Fig. 12. Comparison of different models in detecting small target tea diseases*
