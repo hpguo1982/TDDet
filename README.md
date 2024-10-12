@@ -4,7 +4,7 @@ TDDet is an lightweight and efficient tea disease detector for quickly and accur
 
 ## TDDet
 
-![](./results/TDDet1.png)
+![](./results/TDDet.png)
 
 *Fig. 3 The framework of TDDet.*
 
@@ -18,11 +18,13 @@ We provide .pt of our TDDet trained on the dataset: [TDDet.pt](https://pan.baidu
 
 ## results (Qualitative results)
 
-![](./results/Table1.png)
+![](G:\Submit\TDDet\results\Table1.png)
 
-<img title="" src="./results/Table2.png" alt="" width="542">
+![](G:\Submit\TDDet\results\Table2.png)
 
-<img title="" src="./results/Table3.png" alt="" width="630">
+![](G:\Submit\TDDet\results\Table3.png)
+
+![](G:\Submit\TDDet\results\Table4.png)
 
 ## results (Qualitative results)
 
@@ -30,14 +32,8 @@ We provide .pt of our TDDet trained on the dataset: [TDDet.pt](https://pan.baidu
 
 *Fig. 9. Comparative Heatmap visualization of  in TDDet with different attention mechanisms*
 
+---
+
 ![](./results/Fig.10.png)
 
 *Fig. 10.Comparison of different models with continuous scale variation*
-
-![](./results/Fig.11.png)
-
-*Fig. 11. Comparison of the anti-interference capabilities of different models in complex backgrounds*
-
-![](./results/Fig.12.png)
-
-*Fig. 12. Comparison of different models in detecting small target tea diseases*
